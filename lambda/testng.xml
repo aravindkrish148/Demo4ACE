@@ -10,14 +10,7 @@
 		<classes>
 			<class name="Selenium.lambda.Assessment" />
 		</classes>
-	</test>   
-    <test name="Firefox">
-		<parameter name="browser" value="chrome"></parameter>
-		<parameter name="platform" value="Windows 10" />
-		<classes>
-			<class name="Selenium.lambda.Assessment" />
-		</classes>
-	</test> 	
+	</test>   	
 	 
 	
 
